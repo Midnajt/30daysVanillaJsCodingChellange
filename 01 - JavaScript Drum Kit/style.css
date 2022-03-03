@@ -1,8 +1,8 @@
 html {
   font-size: 10px;
-  background: url('./background1.jpg') bottom center;
+  background: url('./background2.jpg') bottom center;
   background-size: cover;
-  background-position: center;
+  background-position: center -630px;
   background-repeat: no-repeat;
 }
 
